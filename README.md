@@ -34,6 +34,6 @@
 - JSライブラリ：jQuery
 - IDE：Cloud9
 
-## 使用素材
-- 統合検索機能　https://qiita.com/hagii-x/items/6a426266f3b81a347824
+
+
 
